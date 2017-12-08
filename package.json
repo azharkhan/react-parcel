@@ -1,0 +1,19 @@
+{
+  "name": "azhar-react-playground",
+  "version": "1.0.0",
+  "description": "Fun with React",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/parcel index.html"
+  },
+  "author": "Azhar Khan",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "parcel-bundler": "^1.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
